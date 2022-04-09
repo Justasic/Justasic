@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>questdb/questdb</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source SQL database designed to process time series data, faster</div>
@@ -2433,7 +2433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phkehl/ubloxcfg</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">u-blox 9 positioning receivers configuration library and tool</div>
@@ -2530,7 +2530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2022, 05:05:10 (timezone America/Los_Angeles) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 9 Apr 2022, 06:08:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
