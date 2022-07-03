@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lvgl/lvgl</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).</div>
@@ -2542,7 +2542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2022, 00:04:26 (timezone America/Los_Angeles) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 3 Jul 2022, 01:05:34 (timezone America/Los_Angeles) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
