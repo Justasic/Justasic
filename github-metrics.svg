@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>josenk/srandom</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FASTEST /dev/urandom PRNG available</div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WerWolv/ImHex</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</div>
@@ -2532,7 +2532,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2022, 01:05:02 (timezone America/Los_Angeles) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 02:04:40 (timezone America/Los_Angeles) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
