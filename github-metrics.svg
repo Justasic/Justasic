@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ohwgiles/laminar</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and lightweight Continuous Integration</div>
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>whotwagner/statx-fun</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample implementation of the in kernel 4.11 introduced statx-systemcall</div>
@@ -2537,7 +2537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2022, 07:04:55 (timezone America/Los_Angeles) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 08:04:59 (timezone America/Los_Angeles) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
